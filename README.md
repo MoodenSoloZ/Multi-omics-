@@ -2,7 +2,6 @@
 ## Table of contents
 * [Descriptions](#descriptions)
 * [Preparations](#preparations)
-* [Debug the code files](#debug-the-code-files)
 ## Descriptions
 ### 1.Realworld datasets
 All realworld datasets are saved in ``` "/Simulation_data/..." ``` including the following seven multi-omics datasets:
@@ -31,13 +30,8 @@ Genarate the incomplete multi-omics data with different loss ratio.
 
 
 ## Preparations
+(1) Download and import the datasets.
+
+(2) Run ```main.R``` file.
 
 
-## Debug the code files
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
